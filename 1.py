@@ -1,6 +1,6 @@
-# pp1
 
-# print("Hello", end="-")
-# x = 10
-# print(x)
+#pp2
+print("Hello", end="-")
+x = int(input("x;"))
+print(x)
 
